@@ -9,7 +9,7 @@ client.on('message', message => {
      message.reply('pong');
    }
    if (message.content === '%musica') {
-    message.reply('https://www.youtube.com/watch?v=2HnEud_VRYY');
+    message.channel('https://www.youtube.com/watch?v=2HnEud_VRYY');
    }
 });
 
