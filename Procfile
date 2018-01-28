@@ -1,1 +1,1 @@
-worker: node bot.js
+web: gunicorn gettingstarted.wsgi --log-file -
