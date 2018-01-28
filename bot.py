@@ -55,5 +55,5 @@ async def on_message(message):
         await client.send_message(message.channel,"Nós vivemos numa ditadura gayzista")
 
 
-client.run('BOT_TOKEN')
+client.run('NDA3MDA0Mjc2NTU3MjE3ODEz.DU-wOA.v3rNQYkbuRMFSfcQ1QHqZH1oeW8')
 
