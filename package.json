@@ -2,9 +2,9 @@
 	"name": "test",
 	"description": "test",
 	"version": "0.0.0",
-	"main": "bot.js",
+	"main": "bot.py",
 	"scripts": {
-		"start": "mode bot.js"
+		"start": "mode bot.py"
 	},
 	"dependencies": {
 		"discord.js": "11.1.0",
