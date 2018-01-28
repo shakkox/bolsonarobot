@@ -8,9 +8,6 @@ client.on('message', message => {
    if (message.content === 'ping') {
      message.reply('pong');
    }
-   if (message.content === '%musica') {
-    message.channel('https://www.youtube.com/watch?v=2HnEud_VRYY');
-   }
 });
 
 
