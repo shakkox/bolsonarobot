@@ -4,10 +4,10 @@
 	"version": "0.0.0",
 	"main": "bot.py",
 	"scripts": {
-		"start": "mode bot.py"
+		"start": "mode bot.js"
 	},
 	"dependencies": {
-		"discord.py": "11.1.0",
+		"discord.js": "11.1.0",
 		"request": "2.81.0"
 	}
 
