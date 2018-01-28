@@ -8,6 +8,11 @@ client.on('message', message => {
    if (message.content === 'ping') {
      message.reply('pong');
    }
+   if (message.content === '%musica') {
+    message.reply('https://www.youtube.com/watch?v=2HnEud_VRYY');
+   }
 });
+
+
 
 client.login(process.env.BOT_TOKEN);
